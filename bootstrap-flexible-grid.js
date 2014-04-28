@@ -1,5 +1,4 @@
 /**
- * Gridline
  * 
  * Designed to generate CSS on the fly that sets up a responsive grid system of any size
  * for use with Twitter Bootstrap 3.
