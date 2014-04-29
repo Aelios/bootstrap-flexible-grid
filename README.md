@@ -12,4 +12,4 @@ Bootstrap Flexible Grid is designed to be able to customize Twitter Booststrap 3
 </code>
 </pre>
 
-You can customize each Bootstrap row div with <code>data-columns</code> attribute and keep default columns' number 
+You can customize each Bootstrap <code>row</code> with <code>data-columns</code> attribute and keep default columns' number for other <code>row</code>.
