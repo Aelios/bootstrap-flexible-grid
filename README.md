@@ -5,10 +5,10 @@ Bootstrap Flexible Grid is designed to be able to customize Twitter Booststrap 3
 
 <pre>
 <code>
-"<div class="row" data-columns="24">
+<div class="row" data-columns="24">
     <div class="col-md-8"></div>
     <div class="col-md-16"></div>
-</div>"
+</div>
 </code>
 </pre>
 
